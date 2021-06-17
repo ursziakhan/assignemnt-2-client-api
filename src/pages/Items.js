@@ -9,6 +9,7 @@ function Items() {
                 <li>Price</li>
                 <li>Stock</li>
                 <li>Description</li>
+                <p>hello</p>
             </ul>
         </div>
     )
